@@ -4,6 +4,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  transpilePackages: [],
 }
 
 module.exports = nextConfig
